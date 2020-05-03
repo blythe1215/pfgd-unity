@@ -1,1 +1,0 @@
-Put all your images and 3D models into this folder. You can make additional folders in this to organize the files better.
